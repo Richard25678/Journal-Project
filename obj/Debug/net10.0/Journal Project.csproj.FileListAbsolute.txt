@@ -1,0 +1,15 @@
+c:\Users\hp\Desktop\Journal Project\bin\Debug\net10.0\Journal Project.exe
+C:\Users\hp\Desktop\Journal Project\bin\Debug\net10.0\Journal Project.deps.json
+C:\Users\hp\Desktop\Journal Project\bin\Debug\net10.0\Journal Project.runtimeconfig.json
+c:\Users\hp\Desktop\Journal Project\bin\Debug\net10.0\Journal Project.dll
+c:\Users\hp\Desktop\Journal Project\bin\Debug\net10.0\Journal Project.pdb
+c:\Users\hp\Desktop\Journal Project\obj\Debug\net10.0\Journal Project.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\Desktop\Journal Project\obj\Debug\net10.0\Journal Project.AssemblyInfoInputs.cache
+c:\Users\hp\Desktop\Journal Project\obj\Debug\net10.0\Journal Project.AssemblyInfo.cs
+c:\Users\hp\Desktop\Journal Project\obj\Debug\net10.0\Journal Project.csproj.CoreCompileInputs.cache
+c:\Users\hp\Desktop\Journal Project\obj\Debug\net10.0\Journal Project.sourcelink.json
+c:\Users\hp\Desktop\Journal Project\obj\Debug\net10.0\Journal Project.dll
+c:\Users\hp\Desktop\Journal Project\obj\Debug\net10.0\refint\Journal Project.dll
+c:\Users\hp\Desktop\Journal Project\obj\Debug\net10.0\Journal Project.pdb
+C:\Users\hp\Desktop\Journal Project\obj\Debug\net10.0\Journal Project.genruntimeconfig.cache
+C:\Users\hp\Desktop\Journal Project\obj\Debug\net10.0\ref\Journal Project.dll
